@@ -4,4 +4,3 @@ import './index.css';
 import Sidebar from './Sidebar';
 
 ReactDOM.render(<Sidebar />, document.getElementById('root'));
-
